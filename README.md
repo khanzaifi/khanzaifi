@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZAIFI KHAN</h1>
 <h3 align="center">A passionate DATA SCIENTIST from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0QOV2hz9chIsR2Nw6xsdkx&ust=1685439194484000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDO0recmv8CFQAAAAAdAAAAABAE![image](https://github.com/khanzaifi/khanzaifi/assets/113136704/5397d9ca-912a-491a-99d7-f96caf40fb40)">
+<img align="right" alt="coding" width="800*600" src="https://miro.medium.com/v2/resize:fit:1400/1*Urc28sbnORGOW5oyohQ06g.gif">
 
 
 
